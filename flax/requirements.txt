@@ -1,0 +1,16 @@
+accelerate
+datasets
+diffusers
+flax
+huggingface_hub
+jax
+jaxlib
+numpy
+optax
+Pillow
+torch
+torchvision
+tqdm
+transformers
+wandb
+webdataset
